@@ -20,6 +20,3 @@ app.use('/edResource', educationalResourcesRouter);
 app.listen(3080, () => {
     console.log(`Server running in port ${3080}/`);
 });
-
-
-
